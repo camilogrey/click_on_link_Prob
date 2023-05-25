@@ -1,4 +1,4 @@
-# click_on_link_Prob
+# click_on_link_Prob -  Distribución Discreta
 Use of Bernoulli distribution to see success and failure rate based on random f()
 
 En este ejemplo, la función simular_clic emula el acto de hacer clic en un enlace utilizando la función random.random() de Python, la cual genera un número aleatorio en el rango de 0 a 1. Si el número aleatorio obtenido es menor que la probabilidad especificada, se considera que el usuario hizo clic en el enlace, y la función devuelve True. De lo contrario, devuelve False.
